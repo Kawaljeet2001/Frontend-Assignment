@@ -1,70 +1,51 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Frontend Assignment
 
-## Available Scripts
+The aim was to create a React application that is capable of generating dynamic forms, with the help of specific JSON schema.
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Demo
 
-### `npm test`
+The live demo for the app can be viewed at: [Click here](https://truefoundary-assignment.netlify.app/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Screenshots
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Home page
+![](https://firebasestorage.googleapis.com/v0/b/portfolio-b8622.appspot.com/o/True%20foundary%20assignment%2FScreenshot%20from%202023-04-25%2000-18-19.png?alt=media&token=8efc16cd-de80-4d6e-978c-ec45988404d0)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Advanced Options
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![](https://firebasestorage.googleapis.com/v0/b/portfolio-b8622.appspot.com/o/True%20foundary%20assignment%2FScreenshot%20from%202023-04-25%2000-18-49.png?alt=media&token=32d9a286-f747-4b6a-bf16-4d98c74a0527)
 
-### `npm run eject`
+- Form Submission
+![](https://firebasestorage.googleapis.com/v0/b/portfolio-b8622.appspot.com/o/True%20foundary%20assignment%2FScreenshot%20from%202023-04-25%2000-19-13.png?alt=media&token=cde10a7f-24fb-47f9-b53f-eddc203e424a)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Incorrect JSON schema
+![](https://firebasestorage.googleapis.com/v0/b/portfolio-b8622.appspot.com/o/True%20foundary%20assignment%2FScreenshot%20from%202023-04-25%2000-23-54.png?alt=media&token=cc730f27-ad42-467f-89e5-927104783e85)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Setting up
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To run this project locally
 
-## Learn More
+- Clone this git repository
+    ```bash
+    git clone
+    ```
+- Install the dependencies
+    ```
+    cd 
+    npm install or yarn install
+    ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Start the dev server
+    ```
+    npm start or yarn start
+    ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- The development server will start at localhost port 3000.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
